@@ -30,7 +30,8 @@ main {
 }
 
 article {
-  width: 24em;
+  width: 30em;
+  height: 38em;
   max-width: 90%;
   min-width: 20em;
   background-color: var(--color-4);
@@ -90,7 +91,7 @@ article {
       color: var(--color-2);
       font-weight: 600;
       background-color: var(--color-3);
-      padding: 1em;
+      padding: 1.5em;
       border-radius: 0.5em;
       transition: 0.3s ease all;
     }
